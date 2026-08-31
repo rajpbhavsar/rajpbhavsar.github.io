@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="RPB monogram">
-  <rect width="64" height="64" rx="32" fill="#0F1B24"/>
-  <circle cx="32" cy="32" r="27" fill="none" stroke="#C69A5B" stroke-width="1.5" opacity="0.9"/>
-  <text x="32" y="38" text-anchor="middle" fill="#F2EFE8" font-family="Georgia,serif" font-size="18" font-weight="700" letter-spacing="1">RPB</text>
+  <rect width="64" height="64" rx="32" fill="#16324A"/>
+  <circle cx="32" cy="32" r="27" fill="none" stroke="#D2A85F" stroke-width="1.5" opacity="0.9"/>
+  <text x="32" y="38" text-anchor="middle" fill="#F4F0E8" font-family="Georgia,serif" font-size="18" font-weight="700" letter-spacing="1">RPB</text>
 </svg>

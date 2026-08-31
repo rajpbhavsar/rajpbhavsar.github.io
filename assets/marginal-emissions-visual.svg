@@ -1,27 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
   <title id="title">Neutral electricity network visual</title>
   <desc id="desc">An abstract, non-quantitative network visual representing transmission constraints and spatial demand changes.</desc>
-  <rect width="960" height="620" fill="#142630"/>
-  <g fill="none" stroke="#243744" stroke-width="1">
+  <rect width="960" height="620" fill="#204559"/>
+  <g fill="none" stroke="#2B5268" stroke-width="1">
     <path d="M90 500H870M90 390H870M90 280H870M90 170H870"/>
     <path d="M170 95V525M330 95V525M490 95V525M650 95V525M810 95V525"/>
   </g>
   <g fill="none" stroke-linecap="round" stroke-width="3">
-    <path d="M142 426C252 330 355 357 454 262C560 160 683 202 819 122" stroke="#C69A5B"/>
-    <path d="M136 218C239 274 315 228 409 305C520 396 628 363 817 448" stroke="#7C8E91"/>
-    <path d="M221 500C313 455 402 475 499 414C595 353 687 347 789 288" stroke="#AAB8B8" opacity="0.55"/>
+    <path d="M142 426C252 330 355 357 454 262C560 160 683 202 819 122" stroke="#D2A85F"/>
+    <path d="M136 218C239 274 315 228 409 305C520 396 628 363 817 448" stroke="#8498A0"/>
+    <path d="M221 500C313 455 402 475 499 414C595 353 687 347 789 288" stroke="#B5C2C7" opacity="0.55"/>
   </g>
-  <g stroke="#142630" stroke-width="4">
-    <circle cx="142" cy="426" r="13" fill="#C69A5B"/>
-    <circle cx="294" cy="348" r="11" fill="#F2EFE8"/>
-    <circle cx="454" cy="262" r="14" fill="#D7B47A"/>
-    <circle cx="610" cy="184" r="11" fill="#F2EFE8"/>
-    <circle cx="819" cy="122" r="13" fill="#C69A5B"/>
-    <circle cx="136" cy="218" r="10" fill="#AAB8B8"/>
-    <circle cx="409" cy="305" r="11" fill="#AAB8B8"/>
-    <circle cx="817" cy="448" r="10" fill="#AAB8B8"/>
+  <g stroke="#204559" stroke-width="4">
+    <circle cx="142" cy="426" r="13" fill="#D2A85F"/>
+    <circle cx="294" cy="348" r="11" fill="#F4F0E8"/>
+    <circle cx="454" cy="262" r="14" fill="#E2BE7A"/>
+    <circle cx="610" cy="184" r="11" fill="#F4F0E8"/>
+    <circle cx="819" cy="122" r="13" fill="#D2A85F"/>
+    <circle cx="136" cy="218" r="10" fill="#B5C2C7"/>
+    <circle cx="409" cy="305" r="11" fill="#B5C2C7"/>
+    <circle cx="817" cy="448" r="10" fill="#B5C2C7"/>
   </g>
-  <g opacity="0.7" fill="none" stroke="#C69A5B" stroke-width="1.5">
+  <g opacity="0.7" fill="none" stroke="#D2A85F" stroke-width="1.5">
     <path d="M118 107H842"/>
     <path d="M118 107L142 91L166 107L142 123Z"/>
     <path d="M842 107L818 91L794 107L818 123Z"/>

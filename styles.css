@@ -1,13 +1,15 @@
 :root {
-  --bg: #0F1B24;
-  --bg-soft: #142630;
-  --text: #F2EFE8;
-  --muted: #AAB8B8;
-  --quiet: #7C8E91;
-  --line: rgba(198, 154, 91, 0.20);
-  --line-strong: rgba(198, 154, 91, 0.36);
-  --accent: #C69A5B;
-  --accent-soft: rgba(198, 154, 91, 0.12);
+  --bg: #16324A;
+  --bg-soft: #1D4056;
+  --surface: #1B3B50;
+  --surface-soft: #204559;
+  --text: #F4F0E8;
+  --muted: #B5C2C7;
+  --quiet: #8498A0;
+  --accent: #D2A85F;
+  --accent-soft: rgba(210, 168, 95, 0.13);
+  --line: rgba(210, 168, 95, 0.22);
+  --line-strong: rgba(210, 168, 95, 0.38);
   --max: 1160px;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: Aptos, "Segoe UI", Calibri, sans-serif;
@@ -19,7 +21,7 @@ html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
-  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-soft) 52%, var(--bg) 100%);
+  background: linear-gradient(180deg, #16324A 0%, #1A3A50 48%, #17354A 100%);
   color: var(--text);
   font-family: var(--sans);
   line-height: 1.6;
@@ -113,7 +115,7 @@ main {
 .hero-portrait {
   margin: 0;
   border: 1px solid var(--line-strong);
-  background: rgba(255, 255, 255, 0.025);
+  background: var(--surface);
   aspect-ratio: 4 / 5;
   overflow: hidden;
 }
@@ -176,7 +178,7 @@ h3 {
   font-family: var(--serif);
   font-size: clamp(24px, 3vw, 34px);
   line-height: 1.32;
-  color: #eee7dc;
+  color: var(--text);
 }
 
 .affiliations {
@@ -207,7 +209,7 @@ h3 {
   border: 1px solid var(--line-strong);
   padding: 10px 15px;
   border-radius: 999px;
-  color: #e3ddd3;
+  color: var(--text);
   display: inline-flex;
   align-items: center;
 }
@@ -258,7 +260,7 @@ h3 {
 }
 
 .meta {
-  color: #ddd1bf !important;
+  color: #E6D8C0 !important;
   font-size: 14px !important;
 }
 
@@ -266,7 +268,7 @@ h3 {
   margin: 0;
   min-height: 310px;
   border: 1px solid var(--line);
-  background: rgba(255, 255, 255, 0.018);
+  background: var(--surface);
   overflow: hidden;
 }
 
@@ -294,7 +296,7 @@ h3 {
   object-fit: contain;
 }
 
-.neutral-visual { background: rgba(255, 255, 255, 0.012); }
+.neutral-visual { background: var(--surface-soft); }
 
 .text-link {
   display: inline-flex;
@@ -305,7 +307,7 @@ h3 {
   font-weight: 650;
 }
 
-.text-link:hover { color: #e0bd83; }
+.text-link:hover { color: #E1BF82; }
 
 .research-strip h2,
 .methods-section h2,
@@ -346,7 +348,7 @@ h3 {
   font-family: var(--serif);
   font-size: clamp(23px, 3vw, 34px);
   line-height: 1.5;
-  color: #e7dfd3;
+  color: var(--text);
 }
 
 .closing { padding-bottom: 116px; }
