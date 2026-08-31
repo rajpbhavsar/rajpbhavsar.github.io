@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Raj P Bhavsar</title>
+  <desc id="desc">Energy systems, machine learning and electricity markets.</desc>
+  <rect width="1200" height="630" fill="#0b1114"/>
+  <path d="M118 454C236 332 352 368 470 250C598 121 743 174 920 89" fill="none" stroke="#79d9bd" stroke-width="3" opacity="0.42"/>
+  <path d="M106 173C248 249 347 190 469 292C610 409 746 356 1010 488" fill="none" stroke="#d9bf79" stroke-width="3" opacity="0.28"/>
+  <text x="92" y="226" fill="#edf4f1" font-family="Georgia,serif" font-size="82" font-weight="600">Raj P Bhavsar</text>
+  <text x="96" y="300" fill="#b6c7c1" font-family="Aptos,Segoe UI,sans-serif" font-size="31">Energy Systems · Machine Learning · Electricity Markets</text>
+  <text x="96" y="372" fill="#79d9bd" font-family="Aptos,Segoe UI,sans-serif" font-size="25">Imperial College London · Climate Compatible Growth</text>
+</svg>
