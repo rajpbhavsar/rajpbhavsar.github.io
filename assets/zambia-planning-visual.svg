@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
   <title id="title">Settlement graph and connected planning units</title>
   <desc id="desc">An abstract, non-quantitative visual showing settlement nodes grouped into connected spatial planning units.</desc>
-  <rect width="960" height="620" fill="#0d1518"/>
-  <g fill="none" stroke="#1f332f" stroke-width="1">
+  <rect width="960" height="620" fill="#142630"/>
+  <g fill="none" stroke="#243744" stroke-width="1">
     <path d="M0 120H960M0 250H960M0 380H960M0 510H960M150 0V620M310 0V620M470 0V620M630 0V620M790 0V620"/>
   </g>
   <g opacity="0.9">
-    <path d="M191 163L267 132L349 171L430 148L508 206L606 179L722 233" stroke="#355f57" stroke-width="2" fill="none"/>
-    <path d="M235 282L332 246L425 296L533 260L660 311L760 286" stroke="#355f57" stroke-width="2" fill="none"/>
-    <path d="M168 430L280 396L386 447L522 413L640 466L784 425" stroke="#355f57" stroke-width="2" fill="none"/>
+    <path d="M191 163L267 132L349 171L430 148L508 206L606 179L722 233" stroke="#7C8E91" stroke-width="2" fill="none"/>
+    <path d="M235 282L332 246L425 296L533 260L660 311L760 286" stroke="#7C8E91" stroke-width="2" fill="none"/>
+    <path d="M168 430L280 396L386 447L522 413L640 466L784 425" stroke="#7C8E91" stroke-width="2" fill="none"/>
   </g>
   <g opacity="0.55" fill="none" stroke-width="2.5">
-    <path d="M144 155C190 89 303 91 357 148C419 213 382 301 291 317C199 333 105 247 144 155Z" stroke="#79d9bd"/>
-    <path d="M420 121C496 70 611 105 641 187C671 269 584 339 493 314C407 291 360 164 420 121Z" stroke="#d9bf79"/>
-    <path d="M628 315C694 264 818 292 838 373C858 455 758 509 677 479C599 450 571 359 628 315Z" stroke="#90a8e8"/>
-    <path d="M172 376C246 332 368 355 397 430C425 501 339 554 250 528C162 501 111 413 172 376Z" stroke="#b6df91"/>
+    <path d="M144 155C190 89 303 91 357 148C419 213 382 301 291 317C199 333 105 247 144 155Z" stroke="#C69A5B"/>
+    <path d="M420 121C496 70 611 105 641 187C671 269 584 339 493 314C407 291 360 164 420 121Z" stroke="#D7B47A"/>
+    <path d="M628 315C694 264 818 292 838 373C858 455 758 509 677 479C599 450 571 359 628 315Z" stroke="#7C8E91"/>
+    <path d="M172 376C246 332 368 355 397 430C425 501 339 554 250 528C162 501 111 413 172 376Z" stroke="#AAB8B8"/>
   </g>
-  <g fill="#dfeae6" stroke="#0d1518" stroke-width="3">
+  <g fill="#F2EFE8" stroke="#142630" stroke-width="3">
     <circle cx="191" cy="163" r="9"/><circle cx="267" cy="132" r="7"/><circle cx="349" cy="171" r="8"/><circle cx="430" cy="148" r="7"/>
     <circle cx="508" cy="206" r="10"/><circle cx="606" cy="179" r="8"/><circle cx="722" cy="233" r="9"/>
     <circle cx="235" cy="282" r="8"/><circle cx="332" cy="246" r="9"/><circle cx="425" cy="296" r="8"/><circle cx="533" cy="260" r="9"/>
     <circle cx="660" cy="311" r="8"/><circle cx="760" cy="286" r="7"/><circle cx="168" cy="430" r="8"/><circle cx="280" cy="396" r="10"/>
     <circle cx="386" cy="447" r="8"/><circle cx="522" cy="413" r="7"/><circle cx="640" cy="466" r="9"/><circle cx="784" cy="425" r="8"/>
   </g>
-  <g fill="#79d9bd" opacity="0.95">
+  <g fill="#C69A5B" opacity="0.95">
     <circle cx="186" cy="224" r="4"/><circle cx="298" cy="206" r="4"/><circle cx="539" cy="152" r="4"/><circle cx="572" cy="280" r="4"/>
     <circle cx="721" cy="388" r="4"/><circle cx="270" cy="488" r="4"/><circle cx="328" cy="430" r="4"/>
   </g>
